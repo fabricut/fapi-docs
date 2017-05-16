@@ -8,7 +8,7 @@ language_tabs:
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='mailto:webmaster@fabricut.com'>Email About a Developer Key</a>
 
 includes:
   - errors
